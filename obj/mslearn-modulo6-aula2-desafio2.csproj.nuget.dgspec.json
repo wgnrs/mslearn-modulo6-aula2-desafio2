@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj": {}
+    "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj": {}
   },
   "projects": {
-    "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj": {
+    "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj",
+        "projectUniqueName": "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj",
         "projectName": "mslearn-modulo6-aula2-desafio2",
-        "projectPath": "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj",
+        "projectPath": "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\mslearn-modulo6-aula2-desafio2.csproj",
         "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
-        "outputPath": "G:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\obj\\",
+        "outputPath": "g:\\Cursos\\Microsoft Learn\\CSharp Parte 6\\mslearn-modulo6-aula2-desafio2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
